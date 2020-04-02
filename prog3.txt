@@ -1,0 +1,13 @@
+Algoritmo que simula uma sala de aula de programacao
+
+INICIA NOVO SEMESTRE
+- o professor passa um exercicio
+- alguns poucos alunos pesquisam algo parecido na internet
+- os alunos que pesquisaram encontram codigos que fazem algo parecido mas sao MAIS complicados
+- os alunos ajeitam o codigo mas sem entender parte dele
+- outros alunos copiam o codigo "ajeitado" dos primeiros alunos e nao entendem a MAIOR parte
+- os alunos depois de entregar ficam aliviados, mas sem entender o codigo
+- os alunos na prova nao sabem fazer um codigo semelhante ao exercicio
+- os alunos reclamam que nao entendem de programacao
+- alguns poucos alunos tentam realmente desenvolver o exercicio e passam na disciplina 
+PULA PARA "INICIA NOVO SEMESTRE"
